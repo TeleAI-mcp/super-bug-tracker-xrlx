@@ -1,2 +1,3 @@
-# super-bug-tracker-xrlx
+# Super Bug Tracker Xrlx
+
 A repository to test GitHub automation for issue management.
